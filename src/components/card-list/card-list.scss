@@ -1,0 +1,16 @@
+@import '../../style/variables.scss';
+
+.card-list {
+  margin-bottom: 60px;
+
+  .card-list__results {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: $black;
+    margin: 5px 0;
+    border-bottom: 1px solid #EAEAEA;
+    padding-bottom: 5px;
+    margin-bottom: 45px;
+  }
+}
